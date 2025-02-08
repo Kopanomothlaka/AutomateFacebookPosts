@@ -4,69 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Facebook Post Automation</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f7fa;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 15px 20px;
-            text-align: center;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #4CAF50;
-        }
-        p {
-            line-height: 1.6;
-            margin-bottom: 20px;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            padding: 12px;
-            text-align: left;
-            border: 1px solid #ddd;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        code {
-            font-size: 1rem;
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-        }
-        .footer {
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px;
-            text-align: center;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+    
 </head>
 <body>
 
