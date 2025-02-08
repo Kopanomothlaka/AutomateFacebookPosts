@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 # Facebook Access Token
-access_token = "EAAIsylpi9bsBO2a4I6iSVG0IrdZA1oU1mqxxsmSIYHXOhs97AZAZBPjCZCwxMlEMr0zgQkcKsDZA7bZAooXLmFczuFg26vUr9aIwZAeONRYg14sZAEzKmcAA61qZCQZBP2HxVNfeucqHxe8s8Ucy8C63zGSw85cmFzrZA2TduWYtyOzZCCZAKv0tpxrsDarlh23wEVtOas2nZBTDlHLGqLs0KTkG6EZCDfl"
+access_token = "facekkAPI"
 
 # Initialize the Facebook Graph API
 asafb = facebook.GraphAPI(access_token)
