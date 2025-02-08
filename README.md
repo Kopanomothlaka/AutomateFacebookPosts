@@ -123,7 +123,7 @@ while True:
 </div>
 
 <div class="footer">
-    <p>&copy; 2025 Facebook Post Automation Project | Created by [Your Name]</p>
+    
 </div>
 
 </body>
