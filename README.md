@@ -20,6 +20,9 @@
             The script reads a list of messages from an Excel file and posts them to Facebook at a specific time each day. It
             ensures that one message is posted per day.
         </p>
+        <div class="image-container">
+        <img src="https://github.com/user-attachments/assets/03e3a72e-899b-423a-93fa-4103467de415" alt="Facebook Post Automation">
+    </div>
     </section>
     <section>
         <h2>How It Works</h2>
